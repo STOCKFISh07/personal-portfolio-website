@@ -40,9 +40,6 @@ const html = qualifications.map(quali =>
         <div class="flex items-center">
             <time class="mb-1 mr-3 px-3 py-2 rounded-md leading-none text-gray-100 bg-blue-500 dark:bg-gray-600">${quali.year}</time>
             <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-200">${quali.title}
-                <a href="/" target="_blank" class="ml-3">
-                    <i class="fa-solid fa-arrow-up-right-from-square fa-2xs"></i>
-                </a>
             </h3>
         </div>
         <p class="mb-3 text-base font-normal text-gray-800 dark:text-gray-400">${quali.description}</p>
