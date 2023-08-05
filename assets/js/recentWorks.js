@@ -44,7 +44,7 @@ const html = recentWorks.map(work =>
         <div class="my-4 flex flex-wrap">
             ${getTech(work.techs)}
         </div>
-        <a href="https://github.com/STOCKFISh07" target="_blank"
+        <a href="https://github.com/STOCKFISh07?tab=repositories" target="_blank"
             class="w-full inline-flex items-center justify-center px-3 py-2 text-sm font-medium text-center rounded-lg text-white bg-blue-500 hover:bg-blue-600 dark:text-gray-100 dark:bg-gray-700 dark:hover:bg-gray-600">
             Read more
             <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1" fill="currentColor" viewBox="0 0 20 20"
