@@ -13,7 +13,6 @@ const techSkills = [
         title: "Front-end",
         skills: [
             { icon: `<i class="fa-brands fa-react text-yellow-600"></i>`, name: "React" },
-            { icon: `<i class="fa-solid fa-fire text-red-600"></i>`, name: "Firebase" },
             { icon: `<i class="fa-brands fa-bootstrap text-green-600"></i>`, name: "Bootstrap" },
             { icon: `<i class="fa-solid fa-code fa-xs text-green-600"></i>`, name: "Tailwind" }
         ]
@@ -22,7 +21,8 @@ const techSkills = [
         title: "Back-end",
         skills: [
             { icon: `<i class="fa-brands fa-node fa-sm text-green-600"></i>`, name: "Node.js" },
-            { icon: `<i class="fa-brands fa-node-js text-green-600"></i>`, name: "Express.js" }
+            { icon: `<i class="fa-brands fa-node-js text-green-600"></i>`, name: "Express.js" },
+            { icon: `<i class="fa-solid fa-fire text-red-600"></i>`, name: "Firebase" }
         ]
     },
     {
