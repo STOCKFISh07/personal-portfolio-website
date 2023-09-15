@@ -1,11 +1,5 @@
 const recentWorks = [
     {
-        title: "Personal Portfolio",
-        description: "Professional page for personal portfolio showcase.",
-        techs: ["Tailwind", "JS", "Vite"],
-        img: "/images/personal-portfolio.png"
-    },
-    {
         title: "Food Delivery App",
         description: "A full-stack MERN application with advanced features like a login/register system, products filtered by category or price, product Search and shopping cart.",
         techs: ["MERN", "JS", "BS5"],
