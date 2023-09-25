@@ -8,8 +8,8 @@ const recentWorks = [
     },
     {
         title: "Store Management App",
-        description: "A 3-tier full-stack Store Management application for keeping track of customers and their orders.",
-        techs: ["Python", "BS5", "SQL", "Flask"],
+        description: "A 3-tier full-stack Store Management web application created for keeping track of customers and their orders for a grocery shop.",
+        techs: ["Python", "Django", "SQL", "Flask"],
         img: "/images/store.png",
         url: "https://github.com/STOCKFISh07/Store-Management-Web-App"
     },
