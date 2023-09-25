@@ -7,7 +7,7 @@ const recentWorks = [
         url: "https://github.com/STOCKFISh07/food_order"
     },
     {
-        title: "Store Management App",
+        title: "Grocery Store App",
         description: "A 3-tier full-stack Store Management web application created for keeping track of customers and their orders for a grocery shop.",
         techs: ["Python", "Django", "SQL", "Flask"],
         img: "/images/store.png",
